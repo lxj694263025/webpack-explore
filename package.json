@@ -1,0 +1,22 @@
+{
+  "name": "webpack-explore",
+  "version": "0.0.1",
+  "description": "通过自己实现 Webpack 来探索其构建原理",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxj694263025/webpack-explore.git"
+  },
+  "author": "Juner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lxj694263025/webpack-explore/issues"
+  },
+  "homepage": "https://github.com/lxj694263025/webpack-explore#readme"
+}
